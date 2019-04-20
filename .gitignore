@@ -24,4 +24,4 @@ hs_err_pid*
 
 .idea
 mythicaljavaapi.iml
-src/test/*
+src/test/java/net/portagoras/mythical/test.java

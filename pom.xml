@@ -20,6 +20,10 @@
         </license>
     </licenses>
 
+    <scm>
+        <url>scm:git:git://github.com/Portagoras/mythical-java-api</url>
+    </scm>
+
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.asynchttpclient/async-http-client -->
