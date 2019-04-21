@@ -25,3 +25,4 @@ hs_err_pid*
 .idea
 mythicaljavaapi.iml
 src/test/java/net/portagoras/mythical/test.java
+pom.xml.versionsBackup
