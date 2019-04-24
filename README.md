@@ -5,3 +5,5 @@ Easy java Mythical Bot List API Wrapper
 This Wrapper works asynchronous to maximise speed and performance.
 It was build for the current state of the API which might change in the future, so I suggest always using the latest release.
 
+Note: There will be an update soon, which will change how the library works, by adding a non Async function pair.
+
